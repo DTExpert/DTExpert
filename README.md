@@ -1,3 +1,2 @@
--e a look at your changes.
-
----> I’m currently learning python 
+--> I’m currently learning python 
+I am practicing my data scientist , AI skills
